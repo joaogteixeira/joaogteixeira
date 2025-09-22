@@ -1,4 +1,4 @@
-# 👨‍💻 João Teixeira
+# João Teixeira
 
 **`Desenvolvedor Back-end | Cybersecurity Enthusiast`**
 

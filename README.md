@@ -1,6 +1,6 @@
 # João Teixeira
 
-**`Red Team Specialist | Penetration Tester | Ethical Hacker`**
+**`Red Team | Penetration Tester | Ethical Hacker`**
 
 
 Me chamo João Teixeira- Especialista em **segurança ofensiva** com foco exclusivo em **Red Team operations**. Atuo identificando e explorando vulnerabilidades antes que threat actors mal-intencionados o façam. 
@@ -66,9 +66,6 @@ Me chamo João Teixeira- Especialista em **segurança ofensiva** com foco exclus
 ---
 
 ### 📊 Estatísticas GitHub
-
-### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
